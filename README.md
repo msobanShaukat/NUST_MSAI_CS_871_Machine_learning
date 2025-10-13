@@ -21,7 +21,7 @@ This repository contains all course materials, resources, and implementations fo
 | **Department** | Computer Engineering |
 | **College** | College of Electrical and Mechanical Engineering (CEME) |
 | **University** | National University of Sciences and Technology (NUST) |
-| **Semester** | 3rd Semester |
+| **Semester** | 1st Semester |
 
 ---
 
@@ -31,7 +31,7 @@ This repository contains all course materials, resources, and implementations fo
 
 | | |
 | :--- | :--- |
-| **Course Title** | CSE-804 Machine Learning |
+| **Course Title** | CSE-871 Machine Learning |
 | **Credit Hours** | 3 |
 | **Instructor** | Dr. Ali Hassan |
 | **Course Type** | Core Lecture |
