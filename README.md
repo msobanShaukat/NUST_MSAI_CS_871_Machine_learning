@@ -2,7 +2,7 @@
 
 ![NUST](https://img.shields.io/badge/NUST-CEME-blue?style=for-the-badge&logo=university)
 ![MS Program](https://img.shields.io/badge/MS-Graduate_Program-orange?style=for-the-badge&logo=graduation-cap)
-![Fall 2025](https://img.shields.io/badge/Semester-3rd-green?style=for-the-badge)
+![Fall 2025](https://img.shields.io/badge/Semester-1st-green?style=for-the-badge)
 ![Credits](https://img.shields.io/badge/Credits-3-yellow?style=for-the-badge)
 ![Core Course](https://img.shields.io/badge/Core-Course-red?style=for-the-badge)
 
