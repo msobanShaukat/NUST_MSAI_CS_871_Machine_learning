@@ -1,4 +1,4 @@
-### Machine Learning Methods
+# Machine Learning Methods
 Machine learning methods are approaches used to enable computers to learn patterns from data and make predictions or decisions. Below are four fundamental approaches with their definitions, examples, and associated techniques.
 
 ## Template Matching
