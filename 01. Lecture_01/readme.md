@@ -5,7 +5,9 @@
 - ML methods include template matching, statistical, syntactic, and neural network approaches, each with unique strengths and concerns.
 - The ML design cycle involves data collection, feature selection, model choice, training, evaluation, and computational complexity considerations.
 
-***## Introduction to Machine Learning
+***
+
+## Introduction to Machine Learning
 
 ### ❓ Q: CORE CONCEPTS & QUESTIONS
 **Key Definitions:**
@@ -49,7 +51,9 @@
 - Given a dataset, identify which features might be most useful for classification.
 - Design a workflow for collecting and preprocessing data for a new ML project.
 
-***## ARTIFICIAL INTELLIGENCE Vs MACHINE LEARNING vs DEEP LEARNING
+***
+
+## ARTIFICIAL INTELLIGENCE Vs MACHINE LEARNING vs DEEP LEARNING
 
 ### ❓ Q: CORE CONCEPTS & QUESTIONS
 **Key Definitions:**
@@ -90,7 +94,9 @@
 - Compare the strengths and weaknesses of ML and DL for a given application (e.g., medical imaging).
 - Explain how a deep learning model processes an image differently than a traditional ML model.
 
-***## MACHINE LEARNING - LEARNING FROM DATA
+***
+
+## MACHINE LEARNING - LEARNING FROM DATA
 
 ### ❓ Q: CORE CONCEPTS & QUESTIONS
 **Key Definitions:**
@@ -130,7 +136,9 @@
 - Given a dataset, split it into training and testing sets and explain your reasoning.
 - Identify signs of overfitting in a model's performance metrics.
 
-***## MACHINE LEARNING VS DATA MINING
+***
+
+## MACHINE LEARNING VS DATA MINING
 
 ### ❓ Q: CORE CONCEPTS & QUESTIONS
 **Key Definitions:**
@@ -169,7 +177,9 @@
 - Explain how ML can automate the process of pattern discovery in data mining.
 - Design a workflow for a data mining project using ML tools.
 
-***## TYPES OF MACHINE LEARNING
+***
+
+## TYPES OF MACHINE LEARNING
 
 ### ❓ Q: CORE CONCEPTS & QUESTIONS
 **Key Definitions:**
@@ -210,7 +220,9 @@
 - Identify which ML type is best suited for a given problem scenario.
 - Design a simple experiment to compare supervised and unsupervised learning outcomes.
 
-***## CLASSIFICATION VS REGRESSION VS GENERATIVE AI VS AGENTIC AI
+***
+
+## CLASSIFICATION VS REGRESSION VS GENERATIVE AI VS AGENTIC AI
 
 ### ❓ Q: CORE CONCEPTS & QUESTIONS
 **Key Definitions:**
@@ -253,7 +265,9 @@
 - Given a dataset, decide whether classification or regression is appropriate and justify your choice.
 - Explain how a generative AI model could be used in a creative project.
 
-***## MACHINE LEARNING METHODS
+***
+
+## MACHINE LEARNING METHODS
 
 ### 1. TEMPLATE MATCHING & Their Concerns
 - **Template Matching:** Compares input data to stored templates to find similarities.
@@ -271,7 +285,9 @@
 - **Neural Networks:** Massively parallel systems that learn complex, non-linear relationships.
 - **Concerns:** Require large datasets, risk of overfitting, computational demands.
 
-***## MACHINE LEARNING DESIGN CYCLE
+***
+
+## MACHINE LEARNING DESIGN CYCLE
 
 ### Flow Chart: ML Design Cycle
 ```
@@ -317,7 +333,9 @@
 - Given a set of features, decide which are most relevant for a classification task.
 - Calculate computational complexity for a given ML algorithm.
 
-***## ISSUE OF GENERALIZATION
+***
+
+## ISSUE OF GENERALIZATION
 
 ### ❓ Q: CORE CONCEPTS & QUESTIONS
 **Key Definitions:**
@@ -355,7 +373,9 @@
 - Given model results, identify signs of overfitting and suggest remedies.
 - Design an experiment to test generalization on a new dataset.
 
-***## Optimal DECISION BOUNDARY
+***
+
+## Optimal DECISION BOUNDARY
 
 ### ❓ Q: CORE CONCEPTS & QUESTIONS
 **Key Definitions:**
@@ -393,7 +413,9 @@
 - Given a classification problem, propose how to adjust the decision boundary to minimize real-world costs.
 - Analyze the impact of adding new features on the decision boundary.
 
-***# Action Items for Next Study Session
+***
+
+# Action Items for Next Study Session
 
 1. Review the differences between AI, ML, and DL using real-world examples.
 2. Practice building a simple classifier and regression model in Python.
@@ -401,7 +423,9 @@
 4. Investigate overfitting and generalization by running experiments with regularization.
 5. Visualize decision boundaries for different ML algorithms using available tools.
 
-***# Key Terms Glossary
+***
+
+# Key Terms Glossary
 
 - **Artificial Intelligence (AI):** Systems that mimic human intelligence.
 - **Machine Learning (ML):** Algorithms that learn from data.
