@@ -99,3 +99,40 @@ Facial recognition using Convolutional Neural Networks (CNNs), which automatical
 - May overfit or underfit depending on model complexity
 
 ***
+
+
+# The Design Cycle in AI
+
+## Definition
+The **Design Cycle** in Artificial Intelligence (AI) refers to the systematic series of steps taken to build, evaluate, and optimize AI models. It provides a structured workflow to ensure that models are reliable, relevant to the problem, and computationally feasible.
+
+## Steps in the Design Cycle
+1. **Data Collection**: Gathering relevant data for the AI problem.
+2. **Feature Choice**: Selecting variables (features) from the data that will be used by the model.
+3. **Model Choice**: Deciding which type of AI or machine learning model to use (e.g., decision tree, neural network).
+4. **Training**: Teaching the model by exposing it to data so it can learn patterns.
+5. **Evaluation**: Measuring the performance of the trained model using appropriate metrics.
+6. **Computational Complexity**: Analyzing resource requirements (time, memory) for training and inference.
+
+## Example
+Suppose you want to build an AI that predicts house prices:
+- **Data Collection:** Gather past sales data: number of rooms, area, location, price, etc.
+- **Feature Choice:** Select "area" and "number of rooms" as important features.
+- **Model Choice:** Decide to use a linear regression model.
+- **Training:** Train the model using part of your data.
+- **Evaluation:** Measure accuracy with test data (e.g., Mean Squared Error).
+- **Computational Complexity:** Check if model can run efficiently on your computer.
+
+## Related Techniques Used
+| Step                    | Techniques (Names Only)                                  |
+|-------------------------|---------------------------------------------------------|
+| Data Collection         | Web scraping, APIs, Surveys, Data augmentation          |
+| Feature Choice          | Feature selection, PCA, Lasso, Correlation analysis     |
+| Model Choice            | SVM, Decision Tree, Random Forest, Neural Networks      |
+| Training                | Gradient Descent, Backpropagation, Cross-validation     |
+| Evaluation              | Confusion Matrix, ROC Curve, F1 Score, Accuracy         |
+| Computational Complexity| Big O Analysis, Profiling, Parallelization, Pruning     |
+
+***
+
+
