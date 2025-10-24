@@ -1,15 +1,3 @@
-# Machine Learning - MSc Level Comprehensive Notes
-
-## Table of Contents
-1. [Machine Learning Methods](#machine-learning-methods)
-2. [Machine Learning Design Cycle](#machine-learning-design-cycle)
-3. [AI vs ML vs DL](#ai-vs-ml-vs-dl)
-4. [Types of Machine Learning](#types-of-machine-learning)
-5. [Supervised Learning](#supervised-learning)
-6. [Linear Regression](#linear-regression)
-
----
-
 ## MACHINE LEARNING METHODS
 
 ### Template Matching and Issues
